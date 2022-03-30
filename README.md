@@ -1,3 +1,3 @@
 # lazr1026.github.io
 
-My Guides are here: https://lazr1026.github.io/Guides
+you are probably here for the [unbrick](https://lazr1026.github.io/unbrick) guide
